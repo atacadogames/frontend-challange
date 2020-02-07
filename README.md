@@ -31,9 +31,9 @@ This application serves the purpose of exposing our business to the Latin Americ
 The following needs should be respected:
 
 * *project structure pattern* - explain which design pattern you used
-* *consume a static json* - you can create a new one or consume the json attached to this project
-* *theme color* - possibility to change the backgroud color by id
-* *create order* - create a post request for an endpoint with name, email, whatsapp and products
+* *consume a static JSON* - you can create a new one or consume the JSON attached to this project
+* *theme color* - possibility to change the background color by id
+* *create order* - create a post request for an endpoint with name, email, Whatsapp and products
 
 Extras:
 
